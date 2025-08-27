@@ -1,0 +1,1 @@
+Store detailed information about 0-day vulnerabilities discovered by SGTaint.
